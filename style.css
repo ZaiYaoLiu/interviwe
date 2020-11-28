@@ -112,6 +112,7 @@ body {
 	width: 300px;
 	height: 200px;
 	box-shadow: 2px 2px 2px 2px #d8d1b9;
+	transition: 0.5s;
 }
 
 .box_info img:hover {
@@ -119,6 +120,7 @@ body {
 	width: 500px;
 	height: 300px;
 	box-shadow: 2px 2px 2px 2px #d8d1b9;
+	transition: 0.5s;
 }
 
 .box_2 {
